@@ -172,3 +172,4 @@ cython_debug/
 
 # MacOS history file
 .DS_Store
+*/.DS_Store
